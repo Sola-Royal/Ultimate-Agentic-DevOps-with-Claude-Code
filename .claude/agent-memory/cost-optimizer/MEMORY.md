@@ -1,0 +1,4 @@
+- [S3 Storage Class Analysis](s3_storage_class.md) — Static portfolio using STANDARD storage; eligible for INTELLIGENT_TIERING
+- [CloudFront Configuration](cloudfront_config.md) — PriceClass_200 with CachingOptimized policy; regional edge caching opportunity
+- [Cache TTL Analysis](cache_ttl.md) — Using AWS managed policy defaults; opportunity to increase TTL for static assets
+- [Terraform State Backend](terraform_state.md) — Backend commented out; when enabled, should include lifecycle policies

@@ -1,0 +1,1 @@
+- [Terraform baseline state](project_terraform_baseline.md) — snapshot of terraform/ infra + known open gaps as of 2026-07-10 audit
